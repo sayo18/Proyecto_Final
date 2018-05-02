@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "956506833992",
+    "firebase_url": "https://proyectofinal-63ffa.firebaseio.com",
+    "project_id": "proyectofinal-63ffa",
+    "storage_bucket": "proyectofinal-63ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956506833992:android:641a89a15a76d90f",
+        "android_client_info": {
+          "package_name": "com.example.breysi.biblio_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956506833992-de2dve3jsblih32jp21pa7gjf0q555gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.breysi.biblio_virtual",
+            "certificate_hash": "53c7aed6be922fd1d2bbbd5a0cb2df06b416573e"
+          }
+        },
+        {
+          "client_id": "956506833992-igbvokrggrv1gsbstm7umf23472uismp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.breysi.biblio_virtual",
+            "certificate_hash": "51f410f20245cddfaec953913ecfa262da68d239"
+          }
+        },
+        {
+          "client_id": "956506833992-39mn3qkjbatm7qvlld9k72aoaoefk0ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqUovXKWvr5W-xy1VNa8XhcUVu_ri85g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956506833992-39mn3qkjbatm7qvlld9k72aoaoefk0ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
